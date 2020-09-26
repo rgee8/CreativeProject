@@ -1,0 +1,144 @@
+body {
+  background-color: tan;
+}
+
+hr {
+  margin: 50px;
+  background-color: black;
+}
+
+.logo {
+  float: left;
+  padding: 50px;
+  height: 550px;
+}
+
+.welcome {
+  text-align: center;
+  background-color: gold;
+  font-size: 35px;
+}
+
+.intro {
+  padding: 50px;
+  height: 550px;
+  font-size: 38px;
+}
+
+.disclaimer {
+  color: gray;
+}
+
+.mapName {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.mainMap {
+  float: left;
+  height: 600px;
+  padding: 25px;
+}
+
+.worldDescription {
+  height: 600px;
+  padding: 25px;
+}
+
+.calamity {
+  height:550px;
+  font-size: 30px;
+  padding: 25px;
+}
+
+.differentMap {
+  float: right;
+  height: 550px;
+  padding: 25px;
+}
+
+.mainStory {
+  font-style: oblique;
+  font-style: 25px;
+}
+
+.mainQuest {
+  padding: 5px 5px 10px 25px;
+}
+
+.sideQuests {
+  font-style: oblique;
+  font-size: 25px;
+}
+
+.sideMission {
+  padding: 5px 5px 10px 25px;
+}
+
+.wolf {
+  float:right;
+  padding: 50px;
+  border-radius: 50%;
+}
+
+.howl {
+  padding: 10px 50px 50px 50px;
+  font-size: 20px;
+}
+
+.mask {
+  float: left;
+  height: 600px;
+  padding: 50px 50px 25px 50px;
+}
+
+.theItem {
+  height: 600px;
+  font-size: 35px;
+  padding: 50px 50px 25px 50px;
+}
+
+.backStory {
+  padding: 25px 50px 25px 50px;
+  font-size: 25px;
+}
+
+.navbar-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.nav-item {
+  float: left;
+}
+
+.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  background-color: #111111;
+}
+
+footer {
+  text-align: center;
+  background-color: #333333;
+  color: white;
+  padding: 5px;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  background-color: #111111;
+}

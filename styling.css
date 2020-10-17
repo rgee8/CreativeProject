@@ -106,6 +106,12 @@ hr {
   padding: 50px 50px 25px 50px;
 }
 
+.stats {
+  float: left;
+  height: 800px;
+  padding: 50px 50px 25px 50px;
+}
+
 .theItem {
   height: 600px;
   font-size: 35px;
@@ -121,6 +127,11 @@ hr {
 .backStory {
   padding: 25px 50px 25px 50px;
   font-size: 25px;
+}
+
+#lich {
+  height: 800px;
+  font-size: 30px;
 }
 
 .navbar-nav {

@@ -76,6 +76,13 @@ hr {
   padding: 5px 5px 10px 25px;
 }
 
+.crops {
+  float: left;
+  height: 600px;
+  padding: 50px;
+  border-radius: 50%;
+}
+
 .wolf {
   float:right;
   padding: 50px;
@@ -93,8 +100,20 @@ hr {
   padding: 50px 50px 25px 50px;
 }
 
+.sword {
+  float: right;
+  height: 600px;
+  padding: 50px 50px 25px 50px;
+}
+
 .theItem {
   height: 600px;
+  font-size: 35px;
+  padding: 50px 50px 25px 50px;
+}
+
+.theItem2 {
+  height: 750px;
   font-size: 35px;
   padding: 50px 50px 25px 50px;
 }
